@@ -1,0 +1,11 @@
+# config/settings.py
+
+APP_NAME = "WVSN Simulator"
+
+WINDOW_WIDTH = 1400
+WINDOW_HEIGHT = 850
+
+MIN_WIDTH = 1200
+MIN_HEIGHT = 700
+
+THEME = "dark"
